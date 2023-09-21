@@ -9,7 +9,7 @@
                         style="height: 70px;border-radius: 50% ;width: 70px;object-fit: contain;border: 1.5px solid var(--primary-color)"
                         src="{{asset('media/IMG_0073.jpg')}}" alt="">
                     <div class="mx-3">
-                        <div class="h2 p-0 m-0">Kareem</div>
+                        <div class="h2 p-0 m-0">Ahmed</div>
                         <div class="fw-normal h3 m-0" style="color: var(--muted-text-color)">0123456789</div>
                     </div>
                 </li>

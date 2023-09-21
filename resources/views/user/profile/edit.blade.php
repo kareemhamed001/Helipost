@@ -4,7 +4,7 @@
         <div class="row">
             <div class="mb-2 col-12">
                 <div class="form-floating my-2">
-                    <input type="text" value="Kareem" class="form-control" placeholder="Name">
+                    <input type="text" value="Ahmed" class="form-control" placeholder="Name">
                     <label for="" class="form-label">Name</label>
                 </div>
                 <div class="form-floating my-2">

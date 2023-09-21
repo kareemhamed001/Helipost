@@ -6,7 +6,7 @@ export default defineConfig({
         laravel({
             input: [
                 'resources/sass/main.scss',
-                'resources/js/app.js',
+                'resources/js/oneui/app.js',
             ],
             refresh: true,
         }),
