@@ -30,7 +30,7 @@ final class OrderItemFactory extends Factory
         return [
             'order_id' => Order::query()->inRandomOrder()->first()?->id,
             'name' => fake()->name,
-            'price' => fake()->randomFloat(),
+            'price' => fake()->numberBetween(10,1000),
             'size'=>array_rand(['small','large'])
         ];
     }
