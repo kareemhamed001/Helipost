@@ -20,7 +20,7 @@
     <!-- Modules -->
     @yield('css')
 
-    @vite(['resources/sass/main.scss', 'resources/sass/oneui/themes/amethyst.scss', 'resources/js/oneui/app.js'])
+    @vite(['resources/sass/main.scss', 'resources/js/oneui/app.js'])
     <style>
         :root {
             --bs-body-font-family: 'ADLaM Display', cursive;
